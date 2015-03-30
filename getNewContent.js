@@ -14,5 +14,6 @@ function getNewContent(){
     }else{
         alert('Sorry,ur browser doesn\'t support XMLHttpRequest');
     }
+    alert('Function done!');
 }
 addLoadEvent(getNewContent);
