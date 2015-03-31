@@ -29,4 +29,5 @@ function displayAbbreviations() {
 	header.appendChild(header_text);
 	document.body.appendChild(header);
 	document.body.appendChild(dlist);
+
 }
